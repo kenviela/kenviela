@@ -55,3 +55,17 @@ It includes the most important chapters of the series with summaries and styled 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </div>
+
+ ## :chart_with_upwards_trend: Github Stats
+</br>
+</div>
+<br />
+<p align="center"><img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=kenviela&theme=gotham&show_icons=true" alt="shamimsikder"/>
+
+<img width="35%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=kenviela&show_icons=true&theme=gotham"/>
+</p>
+
+<p align="center"><img  width="35%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=kenviela&theme=gotham"/>
+<img width="35%" align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtobjNoazdxb2NxemlwaDBpcjc5MG1zb2R1cDd6cTMwbng3Mm1sZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qAXDUie0dPweocOvnw/giphy.gif" alt="adam-pw" />
+
+</p>
