@@ -9,10 +9,21 @@ My main interest is in Front-End Development, where I enjoy creating intuitive a
   💻 I have created a simple API with Node.js and Express</br>
   🎓 Academic and personal projects have helped me practice HTML, CSS, JavaScript, and React.</br>
   🚀 Goal: Grow as a Front-End Developer while strengthening my Back-End skills to become a Full Stack Developer. 
+
+## 🦾 Projects  
+
+### 🟢 [Rock Paper Scissors Game](https://github.com/kenviela/RockPaperScissorsGame)  
+A simple **Rock, Paper, Scissors** game built with **HTML, CSS, and JavaScript**. 
+### 🟢 [Turi-Dorada (Frontend)](https://github.com/kenviela/turi-Dorada)  
+A **tourism web platform** to showcase places of interest.  
+### 🟢 [Turi-Dorada API (Backend)](https://github.com/kenviela/turi-Dorada-Api)  
+The **backend API** for the Turi-Dorada platform, built with **Node.js** and **Express**.
+### 🟢 [CSS Practice - One Piece](https://github.com/kenviela/CSS_practice)  
+A creative **CSS practice project** inspired by the anime *One Piece*.  
+It includes the most important chapters of the series with summaries and styled layouts. 
   
-<!-- STACK -->
 <div width="100">
-  <h1>🛠️ Stack</h1>
+  <h2>🛠️ Stack</h2>
 </div>
 
 <div align="left">
